@@ -1,2 +1,5 @@
 # test-repo2
-test2
+
+my first repository
+
+I love :coffee: :dancer:, and :hotdog:. 
